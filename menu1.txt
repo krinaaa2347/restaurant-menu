@@ -1,4 +1,4 @@
-Italian(pizza)
+Italian(passta)
 Spanish
 mexican
 korean
